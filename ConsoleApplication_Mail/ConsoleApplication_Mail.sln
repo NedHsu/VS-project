@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication_Mail", "ConsoleApplication_Mail\ConsoleApplication_Mail.csproj", "{A59426F1-F571-4004-AC62-4B49012D1EC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{24137AA9-F04F-4EE4-A0ED-42B9D25A4CD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A59426F1-F571-4004-AC62-4B49012D1EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59426F1-F571-4004-AC62-4B49012D1EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59426F1-F571-4004-AC62-4B49012D1EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24137AA9-F04F-4EE4-A0ED-42B9D25A4CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24137AA9-F04F-4EE4-A0ED-42B9D25A4CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24137AA9-F04F-4EE4-A0ED-42B9D25A4CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24137AA9-F04F-4EE4-A0ED-42B9D25A4CD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
